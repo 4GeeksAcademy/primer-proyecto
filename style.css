@@ -1,0 +1,92 @@
+body{
+    background-color: black;
+    
+   
+}
+
+.post{
+    width: 500px;
+    margin: 0 auto;
+}
+
+
+*{font-family: 'Roboto', sans-serif;}
+
+.primera-caja{
+    
+    display: flex;
+    background-color: white;
+    height: 80px;
+
+}
+.primera-parte{
+    width: 3%;
+    padding: 15px;
+   
+    
+    
+}
+.segunda-parte{
+    width: 40%;
+    
+    padding: 15px;
+    padding-top: 17px;
+    
+    
+    
+    
+    
+    
+    
+}
+
+.tercera-parte{
+    
+    width: 70%;
+    text-align: right;
+    padding: 15px;
+    margin-right: 20px;
+   
+}
+
+.icon{
+    font-size: 45px;
+}
+.icon1{
+    font-size: 50px;}
+
+.tercera-caja{
+    background-color: white;
+    padding: 15px;
+}
+.cajita{
+    background-color: white;
+    display: flex;
+    
+}
+.caja1{
+    font-size: 45px;
+    width: 60px;
+    margin-left: 8px;
+}
+.caja2{
+    font-size: 45px;
+    width: 60px;
+    margin-left: 10px;
+}
+    
+.caja3{
+    font-size: 45px;
+    margin-left: 10px;}
+.caja4{
+    width: 100%;
+    text-align: right;
+    font-size: 45px;
+    margin-right: 15px;
+
+}
+.cuarta-caja{
+    background-color: white;
+}  
+
+
