@@ -1,0 +1,83 @@
+body {
+    background-color: rgb(163, 163, 163);
+}
+
+.post-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.post-header-left {
+    display: flex;
+    align-items: center;
+    margin-right: 5px;
+}
+
+.profile-name {
+    margin: 0%;
+    line-height: 0.1;
+    font-size: 14px;
+    font-family: "Jost";
+}
+
+.profile-name p:first-child {
+    font-family: "Archivo Black";
+}
+
+.post {
+    width: 470px;
+    background-color: aliceblue;
+    margin-top: 10px;
+    border-radius: 5px;
+    align-items: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#profile {
+    width: 25px;
+    height: 25px;
+    padding: 10px;
+}
+
+.profile-options-right {
+    padding-right: 10px;
+} 
+
+#img-post {
+    width: 100%;
+}
+
+.post i {
+    font-size: 20px;
+}
+
+.icons-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px;
+}
+
+.post-icons-left {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.post-text-likes p {
+    font-size: 14px;
+    font-family: "Jost";
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+
+.post-text p {
+    font-size: 14px;
+    font-family: "Jost";
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+}
